@@ -10,4 +10,4 @@
 #### Informational COMMANDS
 * 'git status' - show status of working folder and repo
 
-*'git log' - show log of commits
+* 'git log' - show log of commits
