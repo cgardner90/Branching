@@ -20,3 +20,8 @@
 * git branch - shows all branches
 * git branch newBranch - creates new branch
 * git checkout newBranch - moves over to newBranch
+
+### Remote COMMANDS
+* 'git remote add origin gitHubURL' - link local to Remote
+* 'git push origin main' -push local commits to remote branch main
+* 'git push origin BranchName' - push to remote branch
