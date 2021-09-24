@@ -16,3 +16,7 @@
 * ' git branch' - list local branches (main is default)
 
 * 'git branch -M insertName' renames current branch
+
+* git branch - shows all branches
+* git branch newBranch - creates new branch
+* git checkout newBranch - moves over to newBranch
