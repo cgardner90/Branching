@@ -1,4 +1,5 @@
 ## Git Branching Practice
+Summary and cheat sheet of git commands used in practice branching activities.
 
 ###BASIC COMMANDS
 * 'git init' -initialize a local git repo in current folder
@@ -16,3 +17,7 @@
 * ' git branch' - list local branches (main is default)
 
 * 'git branch -M insertName' renames current branch
+
+* git branch - shows all branches
+* git branch newBranch - creates new branch
+* git checkout newBranch - moves over to newBranch
