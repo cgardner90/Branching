@@ -11,3 +11,8 @@
 * 'git status' - show status of working folder and repo
 
 * 'git log' - show log of commits
+
+### Branching COMMANDS
+* ' git branch' - list local branches (main is default)
+
+* 'git branch -M insertName' renames current branch
